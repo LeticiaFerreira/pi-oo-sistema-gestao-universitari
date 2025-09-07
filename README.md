@@ -1,4 +1,4 @@
-# Projeto Integrador III - Sistema de Gestão Universitária  
+# pi-sistema-gestao-universitario  
 **Disciplina:** Desenvolvimento de Sistemas Orientado a Objetos  
 **Instituição:** SENAC  
 **Professor:** Enoque Felipe dos Santos Leal  
@@ -120,10 +120,9 @@ Os protótipos foram desenvolvidos no **Figma**, refletindo os cenários princip
 ---
 
 ## 📂 Estrutura do Repositório  
-/Projeto-Integrador-III  
+/pi-sistema-gestao-universitario  
 ├── imagens/ # Diagramas e prints dos protótipos  
 ├── README.md # Documentação principal do projeto  
-└── docs/ # (Opcional) arquivos extras  
 
 ---
 

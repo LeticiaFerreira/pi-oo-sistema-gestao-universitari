@@ -5,7 +5,7 @@
 
 ---
 
-## 👥 Integrantes  
+## Integrantes  
 - Eduardo Dorea De Oliveira Macario Muniz  
 - Guilherme Stark  
 - Alexandre de Souza Sol  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 Objetivo do Projeto  
+## Objetivo do Projeto  
 Desenvolver um sistema orientado a objetos para **gestão de dados de uma universidade**, com foco em cadastros de diferentes perfis de usuários: alunos, professores, fornecedores, pessoas físicas e pessoas jurídicas.  
 
 O projeto está dividido em fases:  
@@ -26,9 +26,9 @@ O projeto está dividido em fases:
 
 ---
 
-## 📊 Diagramas UML (Fase 1)  
+## Diagramas UML (Fase 1)  
 ### Diagrama de Caso de Uso
-![Diagrama Caso de Uso](imagens/diagrama_caso_de_uso.jpg)  
+<img src="imagens/diagrama_caso_de_uso.jpg" alt="Diagrama Caso de Uso" width="400"/>
 
 ### Cenários de Cadastro
 #### Pessoa Física  
@@ -62,70 +62,70 @@ O projeto está dividido em fases:
 - **Pós-condição:** Fornecedor incluído no sistema de compras.  
 
 ### Diagrama de Classes  
-![Diagrama de Classes](imagens/diagrama_classes.jpg)  
+<img src="imagens/diagrama_classes.jpg" alt="Diagrama de Classes" width="400"/>
 
 ---
 
-## 🖼️ Protótipos (Fase 2)  
+## Protótipos (Fase 2)  
 Os protótipos foram desenvolvidos no **Figma**, refletindo os cenários principais e alternativos da Fase 1.  
 
-👉 Acesse todos os protótipos aqui: [Protótipos no Figma](https://miro.com/app/board/uXjVJMVUzZ4=/?moveToWidget=3458764639411856994&cot=10)  
+Acesse todos os protótipos aqui: [Protótipos no Figma](https://miro.com/app/board/uXjVJMVUzZ4=/?moveToWidget=3458764639411856994&cot=10)  
 
 ### Telas de Cadastro
 - Pessoa Física  
-  ![Cadastro Pessoa Física](imagens/cadastr-pessoa-fisica.jpg)  
+<img src="imagens/cadastr-pessoa-fisica.jpg" alt="Cadastro Pessoa Física" width="400"/>  
 
 - Pessoa Jurídica  
-  ![Cadastro Pessoa Jurídica](imagens/cadastro-pessoa-juridica.jpg)  
+<img src="imagens/cadastro-pessoa-juridica.jpg" alt="Cadastro Pessoa Jurídica" width="400"/>  
 
 - Professor  
-  ![Cadastro Professor](imagens/cadastro-professor.jpg)  
+<img src="imagens/cadastro-professor.jpg" alt="Cadastro Professor" width="400"/>  
 
 - Aluno  
-  ![Cadastro Aluno](imagens/cadastro-aluno.jpg)  
+<img src="imagens/cadastro-aluno.jpg" alt="Cadastro Aluno" width="400"/>  
 
 - Fornecedor  
-  ![Cadastro Fornecedor](imagens/cadastro-fornecedor.jpg)  
+<img src="imagens/cadastro-fornecedor.jpg" alt="Cadastro Fornecedor" width="400"/>  
 
 ### Telas do Sistema
 - Tela Inicial  
-  ![Tela Inicial](imagens/tela-inicial.jpg)  
+<img src="imagens/tela-inicial.jpg" alt="Tela Inicial" width="400"/>  
 
 - Sistema Universidade - Secretaria  
-  ![Sistema Universidade - Secretaria](imagens/sistema-universidade-secretaria.jpg)  
+<img src="imagens/sistema-universidade-secretaria.jpg" alt="Sistema Universidade - Secretaria" width="400"/>  
 
 - Sistema Universidade - Administrador  
-  ![Sistema Universidade - ADM](imagens/sistema-universidade-adm.jpg)  
+<img src="imagens/sistema-universidade-adm.jpg" alt="Sistema Universidade - ADM" width="400"/>  
 
 - Login  
-  ![Login](imagens/login.jpg)  
+<img src="imagens/login.jpg" alt="Login" width="400"/>  
 
 ### Mensagens e Erros
 - Cadastro Realizado  
-  ![Mensagem Cadastro Realizado](imagens/mensagem-cadastro-realizado.jpg)  
+<img src="imagens/mensagem-cadastro-realizado.jpg" alt="Mensagem Cadastro Realizado" width="400"/>  
 
 - CPF Inválido  
-  ![Mensagem CPF](imagens/mensagem-cpf.jpg)  
-  ![Mensagem CPF 2](imagens/mensagem-cpf-2.jpg)  
+<img src="imagens/mensagem-cpf.jpg" alt="Mensagem CPF" width="400"/>  
+<img src="imagens/mensagem-cpf-2.jpg" alt="Mensagem CPF 2" width="400"/>  
 
 - Dados Incompletos  
-  ![Mensagem Dados Incompletos](imagens/mensagem-dados-incompletos.jpg)  
+<img src="imagens/mensagem-dados-incompletos.jpg" alt="Mensagem Dados Incompletos" width="400"/>  
 
 - Erro Cadastrado  
-  ![Erro Cadastrado](imagens/erro-cadastrado.jpg)  
+<img src="imagens/erro-cadastrado.jpg" alt="Erro Cadastrado" width="400"/>  
 
 - Erro Inválido  
-  ![Erro Inválido](imagens/erro-invalido.jpg)  
+<img src="imagens/erro-invalido.jpg" alt="Erro Inválido" width="400"/>  
 
 ---
 
-## 📂 Estrutura do Repositório  
+## Estrutura do Repositório  
 /pi-sistema-gestao-universitario  
 ├── imagens/ # Diagramas e prints dos protótipos  
 ├── README.md # Documentação principal do projeto  
 
 ---
 
-## 📚 Referências  
+## Referências  
 - [Guia definitivo para diagramas UML](https://miro.com/pt/diagrama/o-que-e-uml/)  
 - COSTA, M. A. S. *Modelagem de um sistema acadêmico baseado em UML para universidades federais*. Dissertação (Mestrado em Ciência da Computação) – UFMG, 2021. Disponível em: https://repositorio.ufmg.br/handle/1843/36789

@@ -28,7 +28,7 @@ O projeto está dividido em fases:
 
 ## 📊 Diagramas UML (Fase 1)  
 ### Diagrama de Caso de Uso
-![Diagrama Caso de Uso](imagens/diagrama_caso_de_uso.png)  
+![Diagrama Caso de Uso](imagens/diagrama_caso_de_uso.jpg)  
 
 ### Cenários de Cadastro
 #### Pessoa Física  
@@ -62,7 +62,7 @@ O projeto está dividido em fases:
 - **Pós-condição:** Fornecedor incluído no sistema de compras.  
 
 ### Diagrama de Classes  
-![Diagrama de Classes](imagens/diagrama_classes.png)  
+![Diagrama de Classes](imagens/diagrama_classes.jpg)  
 
 ---
 
@@ -73,49 +73,49 @@ Os protótipos foram desenvolvidos no **Figma**, refletindo os cenários princip
 
 ### Telas de Cadastro
 - Pessoa Física  
-  ![Cadastro Pessoa Física](imagens/cadastr-pessoa-fisica.png)  
+  ![Cadastro Pessoa Física](imagens/cadastr-pessoa-fisica.jpg)  
 
 - Pessoa Jurídica  
-  ![Cadastro Pessoa Jurídica](imagens/cadastro-pessoa-juridica.png)  
+  ![Cadastro Pessoa Jurídica](imagens/cadastro-pessoa-juridica.jpg)  
 
 - Professor  
-  ![Cadastro Professor](imagens/cadastro-professor.png)  
+  ![Cadastro Professor](imagens/cadastro-professor.jpg)  
 
 - Aluno  
-  ![Cadastro Aluno](imagens/cadastro-aluno.png)  
+  ![Cadastro Aluno](imagens/cadastro-aluno.jpg)  
 
 - Fornecedor  
-  ![Cadastro Fornecedor](imagens/cadastro-fornecedor.png)  
+  ![Cadastro Fornecedor](imagens/cadastro-fornecedor.jpg)  
 
 ### Telas do Sistema
 - Tela Inicial  
-  ![Tela Inicial](imagens/tela-inicial.png)  
+  ![Tela Inicial](imagens/tela-inicial.jpg)  
 
 - Sistema Universidade - Secretaria  
-  ![Sistema Universidade - Secretaria](imagens/sistema-universidade-secretaria.png)  
+  ![Sistema Universidade - Secretaria](imagens/sistema-universidade-secretaria.jpg)  
 
 - Sistema Universidade - Administrador  
-  ![Sistema Universidade - ADM](imagens/sistema-universidade-adm.png)  
+  ![Sistema Universidade - ADM](imagens/sistema-universidade-adm.jpg)  
 
 - Login  
-  ![Login](imagens/login.png)  
+  ![Login](imagens/login.jpg)  
 
 ### Mensagens e Erros
 - Cadastro Realizado  
-  ![Mensagem Cadastro Realizado](imagens/mensagem-cadastro-realizado.png)  
+  ![Mensagem Cadastro Realizado](imagens/mensagem-cadastro-realizado.jpg)  
 
 - CPF Inválido  
-  ![Mensagem CPF](imagens/mensagem-cpf.png)  
-  ![Mensagem CPF 2](imagens/mensagem-cpf-2.png)  
+  ![Mensagem CPF](imagens/mensagem-cpf.jpg)  
+  ![Mensagem CPF 2](imagens/mensagem-cpf-2.jpg)  
 
 - Dados Incompletos  
-  ![Mensagem Dados Incompletos](imagens/mensagem-dados-incompletos.png)  
+  ![Mensagem Dados Incompletos](imagens/mensagem-dados-incompletos.jpg)  
 
 - Erro Cadastrado  
-  ![Erro Cadastrado](imagens/erro-cadastrado.png)  
+  ![Erro Cadastrado](imagens/erro-cadastrado.jpg)  
 
 - Erro Inválido  
-  ![Erro Inválido](imagens/erro-invalido.png)  
+  ![Erro Inválido](imagens/erro-invalido.jpg)  
 
 ---
 
@@ -128,4 +128,4 @@ Os protótipos foram desenvolvidos no **Figma**, refletindo os cenários princip
 
 ## 📚 Referências  
 - [Guia definitivo para diagramas UML](https://miro.com/pt/diagrama/o-que-e-uml/)  
-- COSTA, M. A. S. *Modelagem de um sistema acadêmico baseado em UML para universidades federais*. Dissertação (Mestrado em Ciência da Computação) – UFMG, 2021. Disponível em: https://repositorio.ufmg.br/handle/1843/36789  
+- COSTA, M. A. S. *Modelagem de um sistema acadêmico baseado em UML para universidades federais*. Dissertação (Mestrado em Ciência da Computação) – UFMG, 2021. Disponível em: https://repositorio.ufmg.br/handle/1843/36789

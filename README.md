@@ -28,7 +28,7 @@ O projeto está dividido em fases:
 
 ## Diagramas UML (Fase 1)  
 ### Diagrama de Caso de Uso
-<img src="imagens/diagrama_caso_de_uso.jpg" alt="Diagrama Caso de Uso" width="400"/>
+<img src="imagens/diagrama_caso_de_uso.png" alt="Diagrama Caso de Uso" width="400"/>
 
 ### Cenários de Cadastro
 #### Pessoa Física  
@@ -62,7 +62,7 @@ O projeto está dividido em fases:
 - **Pós-condição:** Fornecedor incluído no sistema de compras.  
 
 ### Diagrama de Classes  
-<img src="imagens/diagrama_classes.jpg" alt="Diagrama de Classes" width="400"/>
+<img src="imagens/diagrama_classes.png" alt="Diagrama de Classes" width="400"/>
 
 ---
 

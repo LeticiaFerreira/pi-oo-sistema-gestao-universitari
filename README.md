@@ -67,9 +67,9 @@ O projeto está dividido em fases:
 ---
 
 ## Protótipos (Fase 2)  
-Os protótipos foram desenvolvidos no **Figma**, refletindo os cenários principais e alternativos da Fase 1.  
+Os protótipos foram desenvolvidos no **Miro**, refletindo os cenários principais e alternativos da Fase 1.  
 
-Acesse todos os protótipos aqui: [Protótipos no Figma](https://miro.com/app/board/uXjVJMVUzZ4=/?moveToWidget=3458764639411856994&cot=10)  
+Acesse todos os protótipos aqui: [Protótipos no Miro](https://miro.com/app/board/uXjVJMVUzZ4=/?moveToWidget=3458764639411856994&cot=10)  
 
 ### Telas de Cadastro
 - Pessoa Física  

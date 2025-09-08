@@ -109,14 +109,55 @@ Acesse todos os protótipos aqui: [Protótipos no Figma](https://miro.com/app/bo
 <img src="imagens/mensagem-cpf-2.jpg" alt="Mensagem CPF 2" width="400"/>  
 
 - Dados Incompletos  
-<img src="imagens/mensagem-dados-incompletos.jpg" alt="Mensagem Dados Incompletos" width="400"/>  
+<img src="imagens/mensagem-dados-incompletos.jpg" alt="Mensagem Dados Incompletos" width="400"/>
+
+- Cadastro Realizado Professor
+<img src= "imagens/mensagem-cadastro-professor.jpg" alt="Mensagem Cadastro Professor" width="400"/>
+  
+- Cadastro Realizado Aluno
+<img src= "imagens/mensagem-cadastro-aluno.jpg" alt="Mensagem Cadastro aluno" width="400"/>
+
+- Cadastro Realizado Fornecedor 
+  <img src= "imagens/mensagem-cadastro-fornecedor.jpg" alt="Mensagem Cadastro Fornecedor" width="400"/>
 
 - Erro Cadastrado  
 <img src="imagens/erro-cadastrado.jpg" alt="Erro Cadastrado" width="400"/>  
 
 - Erro Inválido  
-<img src="imagens/erro-invalido.jpg" alt="Erro Inválido" width="400"/>  
+<img src="imagens/erro-invalido.jpg" alt="Erro Inválido" width="400"/>
+ 
+- Erro Duplicidade
+<img src="imagens/erro-matrícula-professor.jpg"  alt="Erro Duplicidade" width="400"/>
 
+- Erro Dados
+<img src="imagens/erro-dados-aluno.jpg" alt="Erro Dados" width="400"/>
+
+- Erro Pessoa Física
+ <img src="imagens/erro-pessoafísica-professor.jpg" alt="Erro Pessoa Física" width="400"/>
+ 
+- Erro sem vagas
+  <img src="imagens/erro-vagas-aluno.jpg" alt="Erro sem vagas" width="400" />
+
+- Erro Pessoa Jurídica
+  <img src="imagens/erro-pessoajurídica-fornecedor.jpg"  alt="Erro Pessoa Jurídica" width="400"/>
+
+- Erro Pendências
+  <img src="imagens/erro-pendências-fornecedor.jpg" alt="Erro Pendências" width="400"/>
+
+### Telas Auxiliares
+
+- Lista de espera
+ <img src="imagens/lista-de-espera-vagas-aluno.jpg" alt="Lista de Espera Vagas Aluno" width="400"/>
+
+- Revisão de Dados
+<img src="imagens/revisão-dados-aluno.jpg" alt="Revisao Dados Aluno" width="400"/>
+
+- Pendências Financeiras
+<img src="imagens/pendências-fornecedor.jpg" alt="Pendências Fornecedor" width="400"/> 
+
+
+ 
+  
 ---
 
 ## Estrutura do Repositório  
